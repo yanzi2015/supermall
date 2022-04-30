@@ -54,7 +54,4 @@
     height: 22px;
     vertical-align: middle; /* 去掉默认3px */
   }
-  /* .tab-bar-item .active {
-    color: cornflowerblue;
-  } */
 </style>
